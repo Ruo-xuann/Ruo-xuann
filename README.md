@@ -7,7 +7,7 @@ I'm an Information Technology student who enjoys learning by building and experi
 * 🌍 I'm based in the Philippines!
 * 🧠 I'm currently learning Python, Networking, Cybersecurity, Databases, and Git/GitHub
 * 👥 I'm looking to collaborate on interesting IT and software development projects
-* 💬 Ask me about: As long as the program is working, don't touch it! 😂
+* 💬 As long as the program is working, don't touch it! 😂
 
 <hr>
 

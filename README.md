@@ -11,25 +11,6 @@ I'm an Information Technology student who enjoys learning by building and experi
 
 <hr>
 
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="40" height="40">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="40" height="40">
-
-</div>
-
-<hr>
-
 <div align="center">
 <strong>🛠️ Languages & Tools</strong>
 </div>

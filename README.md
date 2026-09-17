@@ -9,12 +9,11 @@ I'm an Information Technology student who enjoys learning by building and experi
 * 👥 I'm looking to collaborate on interesting IT and software development projects
 * 💬 Ask me about: As long as the program is working, don't touch it! 😂
 
----
+<hr>
 
-<div align="center">
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-## 🛠️ Languages & Tools
-
+<p align="center">
 <br>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -58,31 +57,18 @@ I'm an Information Technology student who enjoys learning by building and experi
 </a>
 
 <br><br>
+</p>
 
----
+<hr>
 
-## 🌐 Socials
+<h2 align="center">🌐 Socials</h2>
 
+<p align="center">
 <br>
 
-<a href="https://github.com/Ruo-xuann" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
-</picture>
-</a>
-
+<a href="https://github.com/Ruo-xuann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="GitHub" title="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.com/users/xi4oma" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord" title="Discord" />
-</picture>
-</a>
+<a href="https://discord.com/users/xi4oma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="40" height="40" alt="Discord" title="Discord" /></a>
 
 <br><br>
-
-</div>
+</p>

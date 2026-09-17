@@ -44,10 +44,4 @@ I'm an Information Technology student who enjoys learning by building and experi
 <a href="https://github.com/Ruo-xuann" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="GitHub" title="GitHub" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/xi4oma" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" alt="Discord" title="Discord" width="40" height="40"></a>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.com/users/xi4oma" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" alt="Discord" title="Discord" width="40" height="40">
-</a>
-
 </div>
